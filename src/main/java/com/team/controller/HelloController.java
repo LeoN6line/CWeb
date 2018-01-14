@@ -13,7 +13,7 @@ public class HelloController {
         model.addAttribute("msg", "Spring 4 MVC Hello World");
         return "hello";
     }
-//    @RequestMapping(value = "", method = RequestMethod.GET)
+    @RequestMapping(value = "/", method = RequestMethod.GET)
     public String index(ModelMap model) {
 //        model.addAttribute("msg", "Spring 4 MVC Hello World");
         return "index";

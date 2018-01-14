@@ -6,636 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="4c3bb417-d915-4fca-b395-63051d75c987" name="Default" comment="">
-=======
-    <list default="true" id="1802c1b2-86cb-47c9-984a-4f82e52f9364" name="Default" comment="">
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/CWeb_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/CWeb_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Demo2_war_exploded.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_13_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_4_3_13_RELEASE.xml" afterPath="" />
-=======
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Demo2_war_exploded.xml" afterPath="" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CWeb.iml" afterPath="$PROJECT_DIR$/CWeb.iml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/WEB-INF/applicationContext.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/WEB-INF/classes/com/hyl/HelloController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/WEB-INF/dispatcher-servlet.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/WEB-INF/jsp/hello.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/RELEASE-NOTES.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/asf-logo-wide.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/bg-button.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/bg-middle.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/bg-nav-item.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/bg-nav.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/bg-upper.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/tomcat-power.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/tomcat.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/tomcat.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/tomcat.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/ROOT/tomcat.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/BUILDING.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/RELEASE-NOTES.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/RUNNING.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/aio.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/api/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/build.xml.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/deployment.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/installation.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/introduction.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/processes.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/sample/build.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/sample/docs/README.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/sample/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/sample/sample.war" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/sample/src/mypackage/Hello.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/sample/web/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/sample/web/hello.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/sample/web/images/tomcat.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/sample/web/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/source.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/appdev/web.xml.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/apr.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/architecture/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/architecture/overview.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/architecture/requestProcess.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/architecture/requestProcess/authentication-process.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/architecture/requestProcess/request-process.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/architecture/startup.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/architecture/startup/serverStartup.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/architecture/startup/serverStartup.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/balancer-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/building.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/cgi-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/changelog.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/class-loader-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/cluster-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/comments.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/ajp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/automatic-deployment.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster-channel.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster-deployer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster-interceptor.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster-listener.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster-manager.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster-membership.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster-receiver.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster-sender.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster-valve.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cluster.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/context.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/cookie-processor.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/credentialhandler.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/engine.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/executor.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/filter.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/globalresources.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/host.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/http.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/http2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/jar-scan-filter.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/jar-scanner.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/jaspic.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/listeners.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/loader.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/manager.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/realm.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/resources.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/server.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/service.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/sessionidgenerator.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/systemprops.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/config/valve.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/connectors.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/default-servlet.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/deployer-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/developers.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/elapi/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/extras.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/funcspecs/fs-admin-apps.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/funcspecs/fs-admin-objects.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/funcspecs/fs-admin-opers.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/funcspecs/fs-default.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/funcspecs/fs-jdbc-realm.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/funcspecs/fs-jndi-realm.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/funcspecs/fs-memory-realm.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/funcspecs/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/funcspecs/mbean-names.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/html-manager-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/asf-logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/code.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/cors-flowchart.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/design.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/docs-stylesheet.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/docs.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/fonts/OpenSans400.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/fonts/OpenSans400italic.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/fonts/OpenSans600.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/fonts/OpenSans600italic.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/fonts/OpenSans700.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/fonts/OpenSans700italic.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/fonts/fonts.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/printer.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/tomcat.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/tomcat.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/tomcat.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/images/void.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/introduction.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/jasper-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/jdbc-pool.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/jndi-datasource-examples-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/jndi-resources-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/jspapi/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/logging.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/manager-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/maven-jars.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/mbeans-descriptors-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/monitoring.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/proxy-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/realm-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/rewrite.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/security-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/security-manager-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/servletapi/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/setup.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/ssi-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/ssl-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/tribes/developers.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/tribes/faq.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/tribes/interceptors.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/tribes/introduction.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/tribes/membership.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/tribes/setup.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/tribes/status.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/tribes/transport.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/virtual-hosting-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/web-socket-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/websocketapi/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/windows-auth-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/docs/windows-service-howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/CookieExample.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/CookieExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/HelloWorldExample.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/HelloWorldExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/LocalStrings.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/LocalStrings_en.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/LocalStrings_es.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/LocalStrings_fr.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/LocalStrings_pt.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/RequestHeaderExample.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/RequestHeaderExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/RequestInfoExample.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/RequestInfoExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/RequestParamExample.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/RequestParamExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/ServletToJsp.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/ServletToJsp.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/SessionExample.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/SessionExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async0$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async0.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async0.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async1.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async2.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Async3.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/AsyncStockServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/AsyncStockServlet.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Stockticker$Stock.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Stockticker$TickListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Stockticker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/async/Stockticker.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/cal/Entries.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/cal/Entries.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/cal/Entry.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/cal/Entry.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/cal/JspCalendar.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/cal/JspCalendar.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/cal/TableBean.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/cal/TableBean.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/checkbox/CheckTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/checkbox/CheckTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/colors/ColorGameBean.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/colors/ColorGameBean.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/compressionFilters/CompressionFilter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/compressionFilters/CompressionFilter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/dates/JspCalendar.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/dates/JspCalendar.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/error/Smart.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/error/Smart.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/ExampleTagBase.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/ExampleTagBase.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/FooTag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/FooTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/FooTagExtraInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/FooTagExtraInfo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/LogTag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/LogTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/ShowSource.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/ShowSource.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/ValuesTag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/examples/ValuesTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/filters/ExampleFilter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/filters/ExampleFilter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/http2/SimpleImagePush.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/http2/SimpleImagePush.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/BookBean.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/BookBean.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/FooBean.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/FooBean.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/ValuesBean.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/ValuesBean.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/el/Functions.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/el/Functions.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/listeners/ContextListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/listeners/ContextListener.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/listeners/SessionListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/listeners/SessionListener.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/nonblocking/ByteCounter$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/nonblocking/ByteCounter$CounterListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/nonblocking/ByteCounter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/nonblocking/ByteCounter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/nonblocking/NumberWriter$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/nonblocking/NumberWriter$NumberWriterListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/nonblocking/NumberWriter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/nonblocking/NumberWriter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/num/NumberGuessBean.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/num/NumberGuessBean.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/sessions/DummyCart.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/sessions/DummyCart.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/util/CookieFilter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/util/CookieFilter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/util/HTMLFilter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/util/HTMLFilter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/validators/DebugValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/validators/DebugValidator.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/ExamplesConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/ExamplesConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Client$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Client.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Client.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawMessage$ParseException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Room$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Room$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Room$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Room$MessageType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Room$Player.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Room.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/Room.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$CompletedFuture.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerBinary.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerText.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/echo/servers.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/Direction.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/Direction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/Location$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/Location.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/Location.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/Snake.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/Snake.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/SnakeTimer$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/SnakeTimer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/classes/websocket/snake/SnakeTimer.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/jsp/applet/Clock2.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/jsp/debug-taglib.tld" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/jsp/example-taglib.tld" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/jsp2/jsp2-example-taglib.tld" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/tags/displayProducts.tag" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/tags/helloWorld.tag" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/tags/panel.tag" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/async/async1.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/async/async1.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/async/async3.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/async/async3.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/async/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/async/index.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/Entries.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/Entry.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/JspCalendar.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/TableBean.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/cal1.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/cal1.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/cal2.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/cal2.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/calendar.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/cal/login.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/checkbox/CheckTest.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/checkbox/check.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/checkbox/checkresult.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/checkbox/checkresult.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/checkbox/cresult.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/colors/ColorGameBean.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/colors/clr.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/colors/colors.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/colors/colrs.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/colors/colrs.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/dates/date.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/dates/date.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/dates/date.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/error/er.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/error/err.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/error/err.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/error/error.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/error/errorpge.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/error/errorpge.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/forward/forward.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/forward/forward.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/forward/fwd.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/forward/one.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/forward/one.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/forward/two.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/images/code.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/images/execute.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/images/read.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/images/return.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/include/foo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/include/foo.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/include/foo.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/include/inc.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/include/include.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/include/include.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/Functions.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/ValuesBean.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/ValuesTag.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/basic-arithmetic.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/basic-arithmetic.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/basic-arithmetic.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/basic-comparisons.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/basic-comparisons.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/basic-comparisons.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/composite.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/composite.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/composite.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/functions.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/functions.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/functions.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/implicit-objects.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/implicit-objects.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/el/implicit-objects.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/FooBean.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/HelloWorldSimpleTag.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/ShuffleSimpleTag.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/TileSimpleTag.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/jspattribute.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/jspattribute.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/jspattribute.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/shuffle.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/shuffle.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspattribute/shuffle.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspx/basic.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspx/basic.jspx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspx/basic.jspx.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspx/svgexample.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspx/textRotate.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspx/textRotate.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspx/textRotate.jspx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/jspx/textRotate.jspx.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/EchoAttributesTag.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/coda.jspf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/coda.jspf.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/config.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/config.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/config.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/dynamicattrs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/dynamicattrs.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/dynamicattrs.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/prelude.jspf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/misc/prelude.jspf.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/BookBean.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/FindBookSimpleTag.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/Functions.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/HelloWorldSimpleTag.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/RepeatSimpleTag.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/book.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/book.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/book.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/hello.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/hello.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/hello.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/repeat.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/repeat.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/simpletag/repeat.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/displayProducts.tag.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/hello.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/hello.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/hello.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/helloWorld.tag.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/panel.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/panel.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/panel.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/panel.tag.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/products.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/products.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsp2/tagfiles/products.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsptoserv/ServletToJsp.java.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsptoserv/hello.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsptoserv/hello.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsptoserv/jsptoservlet.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsptoserv/jsptoservlet.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/jsptoserv/jts.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/num/numguess.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/num/numguess.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/num/numguess.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/plugin/applet/Clock2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/plugin/applet/Clock2.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/plugin/plugin.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/plugin/plugin.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/plugin/plugin.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/security/protected/error.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/security/protected/error.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/security/protected/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/security/protected/index.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/security/protected/login.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/security/protected/login.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/sessions/DummyCart.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/sessions/carts.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/sessions/carts.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/sessions/carts.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/sessions/crt.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/simpletag/foo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/simpletag/foo.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/simpletag/foo.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/snp/snoop.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/snp/snoop.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/snp/snoop.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/source.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/source.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/choose.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/choose.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/choose.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/foreach.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/foreach.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/foreach.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/howto.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/if.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/if.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/if.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/tagplugin/notes.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/xml/xml.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/xml/xml.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/jsp/xml/xml.jsp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/cookies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/helloworld.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/images/code.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/images/execute.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/images/return.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/nonblocking/bytecounter.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/reqheaders.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/reqinfo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/reqparams.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/servlets/sessions.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/websocket/chat.xhtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/websocket/drawboard.xhtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/websocket/echo.xhtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/websocket/index.xhtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/examples/websocket/snake.xhtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/META-INF/context.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/WEB-INF/jsp/401.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/WEB-INF/jsp/403.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/WEB-INF/jsp/404.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/images/asf-logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/images/code.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/images/design.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/images/docs.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/images/tomcat.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/images/void.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/host-manager/manager.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/META-INF/context.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/WEB-INF/jsp/401.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/WEB-INF/jsp/403.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/WEB-INF/jsp/404.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/WEB-INF/jsp/connectorCiphers.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/WEB-INF/jsp/sessionDetail.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/WEB-INF/jsp/sessionsList.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/images/asf-logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/images/code.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/images/design.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/images/docs.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/images/tomcat.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/images/void.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/status.xsd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/folder/manager/xform.xsl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo2_war_exploded/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/hyl/HelloController.java" afterPath="$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/hyl/HelloController.class" afterPath="" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
+    <list default="true" id="8853fcef-7d78-41d6-b19d-0b7f1b575e22" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CWeb_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/CWeb_war.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CWeb_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/CWeb_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java" afterPath="$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java" />
     </list>
-=======
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" />
-    </list>
-    <ignored path="$PROJECT_DIR$/out/" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -644,34 +24,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="109">
+              <caret line="47" column="10" lean-forward="false" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-128">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -680,56 +61,14 @@
       <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-=======
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="hello.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-=======
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CWeb.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CWeb.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
+            <state relative-caret-position="165">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>hello</find>
-      <find>target</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -742,16 +81,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java" />
-=======
-        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/com/hyl/HelloController.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/CWeb.iml" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
       </list>
     </option>
   </component>
@@ -778,7 +108,6 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -794,11 +123,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="Scratches" />
-=======
       <pane id="AndroidView" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -846,13 +174,6 @@
               <item name="CWeb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -876,39 +197,15 @@
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-=======
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-<<<<<<< HEAD
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
-=======
-    <property name="project.structure.side.proportion" value="0.22528736" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
-    </key>
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -998,12 +295,7 @@
       <properties />
       <listeners />
     </configuration>
-<<<<<<< HEAD
     <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.11" ALTERNATIVE_JRE_ENABLED="false">
-=======
-    <configuration name="CWebTomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.11" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="CWeb:war exploded">
@@ -1013,7 +305,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_CWeb" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_CWeb_3" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -1022,7 +314,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="64586" />
+        <option name="DEBUG_PORT" value="65365" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -1090,97 +382,54 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4c3bb417-d915-4fca-b395-63051d75c987" name="Default" comment="" />
-      <created>1515938763891</created>
+      <changelist id="8853fcef-7d78-41d6-b19d-0b7f1b575e22" name="Default" comment="" />
+      <created>1515940585812</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1515938763891</updated>
-      <workItem from="1515938765346" duration="943000" />
-=======
-      <updated>1515510442630</updated>
-      <workItem from="1515510444401" duration="326000" />
-      <workItem from="1515592204160" duration="4560000" />
-      <workItem from="1515837205701" duration="51000" />
-      <workItem from="1515837264964" duration="151000" />
-      <workItem from="1515839648697" duration="3000" />
-      <workItem from="1515839701026" duration="34000" />
-      <workItem from="1515839866169" duration="1720000" />
-      <workItem from="1515931168367" duration="4322000" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
+      <updated>1515940585812</updated>
+      <workItem from="1515940587159" duration="123000" />
+      <workItem from="1515940749970" duration="308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="943000" />
-=======
-    <option name="totallyTimeSpent" value="11167000" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
+    <option name="totallyTimeSpent" value="431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39889959" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28198075" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39889959" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-=======
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52682257" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25444266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1194,50 +443,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pom.xml">
-=======
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="675">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="109">
+          <caret line="47" column="10" lean-forward="false" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyl/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1245,351 +467,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="-128">
-=======
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyl/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CWeb.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello.jsp">
-=======
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyl/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CWeb.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-<<<<<<< HEAD
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-=======
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyl/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CWeb.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyl/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CWeb.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyl/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CWeb.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/package-info.java" />
-    <entry file="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.13.RELEASE.jar!/org/springframework/web/servlet/view/UrlBasedViewResolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyl/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/team/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CWeb.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1600,11 +481,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>CWeb:war</last-edited>
+          <last-edited>unnamed</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.22528736" />
+                <option value="0.2" />
                 <option value="0.5" />
               </list>
             </option>
@@ -1613,11 +494,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.22528736" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1628,7 +509,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.22528736" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1640,7 +521,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.22528736" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1649,7 +530,6 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>CWeb</last-edited>
-<<<<<<< HEAD
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1663,13 +543,10 @@
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-=======
->>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.22528736" />
-                <option value="0.6" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1677,11 +554,10 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: commons-fileupload:commons-fileupload:1.3.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.22528736" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
