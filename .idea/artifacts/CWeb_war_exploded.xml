@@ -1,6 +1,10 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="CWeb:war exploded">
+<<<<<<< HEAD
     <output-path>$PROJECT_DIR$/target/CWeb</output-path>
+=======
+    <output-path>$PROJECT_DIR$/target/maven-springmvc</output-path>
+>>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -24,7 +28,11 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
+<<<<<<< HEAD
         <element id="file-copy" path="$PROJECT_DIR$/target/CWeb/META-INF/MANIFEST.MF" />
+=======
+        <element id="file-copy" path="$PROJECT_DIR$/target/maven-springmvc/META-INF/MANIFEST.MF" />
+>>>>>>> 28883c34a924acecf00350094ca5585d3add09a8
       </element>
       <element id="javaee-facet-resources" facet="CWeb/web/Web" />
     </root>
